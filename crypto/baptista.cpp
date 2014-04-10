@@ -7,6 +7,23 @@ References:
 
 Baptista, M.S.,  Cryptography with chaos, 23 March 1998, Physics Letters A 240, pp 50-54 
 
+Input Sample:
+
+1
+0.232323
+0.2
+0.002343750
+3.78
+250
+0
+Meu texto encriptado
+
+
+Output Sample:
+
+Tamanho = 20
+437 652 492 311 751 371 1964 438 304 276 489 587 814 1118 434 753 664 1648 619 337 
+
 */
 
 #include <cstdio>
